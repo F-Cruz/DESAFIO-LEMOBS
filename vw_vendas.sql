@@ -1,0 +1,1 @@
+﻿CREATE VIEW vw_vendas as SELECT * FROM vendas
